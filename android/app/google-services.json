@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "116580330838",
+    "firebase_url": "https://jobs-6ba68.firebaseio.com",
+    "project_id": "jobs-6ba68",
+    "storage_bucket": "jobs-6ba68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116580330838:android:704e31eb94ffb414cebaf7",
+        "android_client_info": {
+          "package_name": "com.example.munshot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116580330838-e3j8gslpc9nidlhstrfh0jlnil1p6753.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzD29PXTQBZ2OSaAea-GxrToLf7X078pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116580330838-e3j8gslpc9nidlhstrfh0jlnil1p6753.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "116580330838-4ifud6a4p408judrodu7r3dotemd2trh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.munshot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
